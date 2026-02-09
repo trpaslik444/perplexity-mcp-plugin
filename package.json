@@ -1,0 +1,22 @@
+{
+  "name": "perplexity-mcp-plugin",
+  "version": "1.0.0",
+  "description": "Custom MCP plugin for Perplexity AI integration",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mcp",
+    "perplexity",
+    "ai",
+    "plugin"
+  ],
+  "author": "trpaslik444",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.5.0"
+  }
+}
